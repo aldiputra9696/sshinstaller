@@ -5,7 +5,7 @@ Installation Minimal Requirement:<br>
 - 1 CPU Core<br>
 - Storage 10 GB<br>
 - Ubuntu 20.04 x64 / Ubuntu 20.10 x64 (Recomended)<br>
-- KVM/XEN/HVM Virtualization<br>
+- KVM/XEN/HVM Virtualization<br><br>
 Installation Step:<br>
 Enter the command<br>
 wget https://raw.githubusercontent.com/aldiputra9696/sshinstaller/master/install.sh && chmod +x install.sh && ./install.sh<br>
